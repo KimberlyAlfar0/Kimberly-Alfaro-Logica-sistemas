@@ -1,0 +1,4 @@
+mivariable=16
+minombre="Kimberly Alfaro"
+print("Hello World") 
+print (mivariable)
