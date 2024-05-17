@@ -1,6 +1,1 @@
-def contar_nombres(lista_nombres):
-    nombre_a_buscar = input("Ingresa el nombre a buscar: ")
-    frecuencia = lista_nombres.count(nombre_a_buscar)
-    print(f"El nombre {nombre_a_buscar} se repite {frecuencia} veces.")
-lista_nombres = ["Antonio", "Lola", "Lucas", "Antonio", "Diego", "Lola"]
-contar_nombres(lista_nombres) 
+
